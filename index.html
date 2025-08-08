@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Addiction Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📱 Social Media Addiction Tracker</h1>
+        
+        <form id="trackerForm">
+            <input type="text" id="platform" placeholder="Platform (e.g., Instagram)" required>
+            <input type="number" id="timeSpent" placeholder="Time spent (minutes)" required>
+            <button type="submit">Add</button>
+        </form>
+
+        <h2>Daily Usage</h2>
+        <ul id="usageList"></ul>
+
+        <h3 id="totalTime">Total Time: 0 minutes</h3>
+        <p id="suggestion"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
