@@ -4,7 +4,7 @@ A simple web app to help users track how much time they spend on different socia
 
 ## 🚀 Live Demo
 
-🔗 [View the live site here](https://rasika-ravichandran.github.io/Social-Media-Addiction-Tracker/)
+🔗 [View the live site here]( https://rasika-ravichandran.github.io/Social-Media-Addiction-Tracker/)
 
 ## ✨ Features
 
