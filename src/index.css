@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #1f2937;
+  background: #ffffff;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+button {
+  font-family: inherit;
+}
+
+
+img {
+  max-width: 100%;
+  display: block;
+}
